@@ -1,6 +1,6 @@
 [user]
-  name = Josh Mize
-  email = jgmize@gmail.com
+  name = Todd Kirk
+  email = toddjkirk@gmail.com
 
 [alias]
   st = status -sb
@@ -18,7 +18,7 @@
   sha = rev-parse HEAD
 
 [core]
-  excludesfile = /home/jgmize/.gitignore_global
+  excludesfile = /home/tkirk/.gitignore_global
 [push]
   default = current
 [filter "lfs"]
